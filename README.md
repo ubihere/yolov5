@@ -1,7 +1,8 @@
 <div align="center">
 <p>
-   <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
-   <img width="850" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/splash.jpg"></a>
+   <a align="left" href=https://ubihere.com" target="_blank">
+      
+   <img width="850" src="https://www.ncms.org/wp-content/uploads/UBIHERE_Logo.png"></a>
 </p>
 <br>
 <div>
@@ -16,6 +17,8 @@
 
 <br>
 <p>
+This version of yolov5 was forked by Eve Myadze-Pike on 3/17/22.
+
 YOLOv5 🚀 is a family of object detection architectures and models pretrained on the COCO dataset, and represents <a href="https://ultralytics.com">Ultralytics</a>
  open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development.
 </p>
