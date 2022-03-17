@@ -1,7 +1,6 @@
 <div align="center">
 <p>
-   <a align="left" href=https://ubihere.com" target="_blank">
-      
+   <a align="left" href="https://ubihere.com/" target="_blank">   
    <img width="850" src="https://www.ncms.org/wp-content/uploads/UBIHERE_Logo.png"></a>
 </p>
 <br>
